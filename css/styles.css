@@ -3964,6 +3964,14 @@ img.u-pull-left {
     .folio-item__meta {
         font-size : var(--text-sm);
     }
+
+    .testimonial-slider__slide p {
+        margin-bottom: var(--vspace-0_25);
+    }
+
+    .testimonial-slider__author {
+        margin-top: var(--vspace-0_25);
+    }
 }
 
 @media screen and (max-width: 400px) {
